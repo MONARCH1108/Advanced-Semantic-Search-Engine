@@ -55,10 +55,10 @@
     ```
 
 > 💡 Ensure you have **ffmpeg** installed for audio processing:
-    ```bash
-    sudo apt install ffmpeg  # Linux  
-    brew install ffmpeg      # macOS  
     ```
+    sudo apt install ffmpeg  # Linux  
+    brew install ffmpeg      # macOS
+     ```
 
 ---
 
