@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+sqlite3
+torch
+transformers
+sentence-transformers
+chromadb
+openai-whisper
+speechrecognition
+soundfile
