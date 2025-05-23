@@ -2,6 +2,9 @@
 
 An advanced semantic search engine that identifies movies based on memorable quotes and dialogue lines using Natural Language Processing and vector embeddings.
 
+## Documentation :
+https://medium.com/@abhayemani8/building-a-movie-subtitle-search-engine-from-ai-assisted-to-self-coded-development-8a789407471d
+
 ## 🌟 Features
 
 - **Semantic Search**: Find movies using natural language queries, not just exact matches
