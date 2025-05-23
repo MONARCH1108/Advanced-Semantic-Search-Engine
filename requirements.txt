@@ -1,8 +1,8 @@
+# version_1
 numpy
 pandas
 matplotlib
 seaborn
-sqlite3
 torch
 transformers
 sentence-transformers
@@ -10,3 +10,10 @@ chromadb
 openai-whisper
 speechrecognition
 soundfile
+
+# version_2
+flask
+langchain
+langchain_huggingface
+langchain_chroma
+langchain_community
